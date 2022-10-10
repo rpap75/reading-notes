@@ -10,4 +10,4 @@ What is growth mind set to me?
 2. Reminder
 3. Reminder
 
-Link to githib portfolio: https://github.com/rpap75
+Link to github portfolio: https://github.com/rpap75
