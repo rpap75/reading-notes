@@ -1,6 +1,4 @@
-# reading-notes
-
-# My reading notes journal for code 102d44
+# My Reading Notes Journal For Code 102d44
 
 Hi, my name is **Ryan Papsin**.
 
