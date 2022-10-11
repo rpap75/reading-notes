@@ -13,4 +13,4 @@ Hi, my name is **Ryan Papsin**.
 
 [Check Out Page 2!](page2.md)
 
-[See My Github!](https://github.com/rpap75)
+[See My GitHub!](https://github.com/rpap75)
