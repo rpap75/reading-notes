@@ -11,6 +11,6 @@ Hi, my name is **Ryan Papsin**.
 # Happy Halloween!
 ![halloween](robin-mikalsen-GKAmPimCH-w-unsplash.jpg)
 
-[Check Out Page 2!](page2.md)
+## [Check Out Page 2!](page2.md) ##
 
-[See My GitHub!](https://github.com/rpap75)
+## [See My GitHub!](https://github.com/rpap75) ##
