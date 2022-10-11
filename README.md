@@ -10,8 +10,7 @@ Hi, my name is **Ryan Papsin**.
 2. Remind myself that I am **creating** something. 
 3. That **everyone** started exactly where I am.
 
-Link to github portfolio: **https://github.com/rpap75**
-
 # Happy Halloween!
 ![halloween](robin-mikalsen-GKAmPimCH-w-unsplash.jpg)
 
+[Check Out My Github!](https://github.com/rpap75)
