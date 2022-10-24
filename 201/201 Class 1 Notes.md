@@ -1,5 +1,3 @@
-class-01.md
-
 Getting Started
 1. Compose a short poem describing how HTTP sends data between computers.
 A TCP connection is used to send a request, or several, and recieve an answer,
