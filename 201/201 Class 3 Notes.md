@@ -1,3 +1,5 @@
+### Learn HTML
+
 1.When should you use an unordered list in your HTML document?
 Unordered list are used when the list is not numerical ordering and the order is meaningless.
 
@@ -12,7 +14,7 @@ When the list is displayed with preceding markers.
 Use an 'a' for lowercase
 Use a 'I' for uppercase Roman Numerals
 
-Learn CSS
+### Learn CSS
 
 1.Describe the CSS properties of margin and padding as characters in a story. What is their role in a story titled: “The Box Model”?
 In this story, padding is the card board box to a present and the margin is the wrapping paper. The child ripped the margin off first before ripping the padding open. The End. Oh, it was legos inside.
@@ -28,7 +30,7 @@ Border box: The border box wraps the content and any padding; size it using bord
 Margin box: The margin is the outermost layer, wrapping the content, padding, and border as whitespace between this box and other elements; size it using margin and related properties.
 (<https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model#block_and_inline_boxes>).
 
-Learn JS
+### Learn JS
 
 1.What data types can you store inside of an Array?
 
@@ -54,9 +56,4 @@ When you need a piece of code repeated many times.
 ## Things I want to know more about
 
 Learn JS
-
-# 1
-
-# 2
-
-# 4
+Question 1,2, and 4.
