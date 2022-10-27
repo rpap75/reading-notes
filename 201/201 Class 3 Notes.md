@@ -31,6 +31,7 @@ Margin box: The margin is the outermost layer, wrapping the content, padding, an
 Learn JS
 
 1.What data types can you store inside of an Array?
+strings, booleans, number, other arrays.
 
 2.Is the people array a valid JavaScript array? If so, how can I access the values stored? If not, why?
 
