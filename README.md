@@ -56,7 +56,7 @@ Hi, my name is **Ryan Papsin**. This is where you can find my reading notes for 
 
 **301 Notes**
 
-[Class 1](301/301 Class 1 Notes.md)
+[Class 1]()
 
 [Class 2]()
 
