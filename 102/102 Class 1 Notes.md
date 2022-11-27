@@ -4,9 +4,10 @@ Writing Syntax in Markdown and HTML share many similarities but are very differe
 
 Here are some basic syntax in Markdown:
 
-**Markdown** 
+**Markdown**
+
 - Heading goes from h1-h6 using '#' as level
-- Two '**' on both side for bold 
+- Two '**' on both side for bold
 - One '*' on both side for italic
 - '>' blockquotes
 - '---' Horizontal Rule
@@ -14,12 +15,6 @@ Here are some basic syntax in Markdown:
   2. Second   Order List
   3. Third
   
-- - First
+  - - First
   - Second    Unordered List
   - Third
-
-
-
-
-
-
