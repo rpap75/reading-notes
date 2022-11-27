@@ -56,34 +56,34 @@ Hi, my name is **Ryan Papsin**. This is where you can find my reading notes for 
 
 **301 Notes**
 
-[Class 1]()
+[Class 1](/301/301%20Class%201%20Notes.md)
 
-[Class 2]()
+[Class 2](/301/301%20Class%202%20Notes.md)
 
-[Class 3]()
+[Class 3](301/301%20Class%203%20Notes.md)
 
-[Class 4]()
+[Class 4](301/301%20Class%204%20Notes.md)
 
-[Class 5]()
+[Class 5](301/301%20Class%205%20Notes.md)
 
-[Class 6]()
+[Class 6](301/301%20Class%206%20Notes.md)
 
-[Class 7]()
+[Class 7](301/301%20Class%207%20Notes.md)
 
-[Class 8]()
+[Class 8](301/301%20Class%208%20Notes.md)
 
-[Class 9]()
+[Class 9](301/301%20Class%209%20Notes.md)
 
-[Class 10]()
+[Class 10](301/301%20Class%2010%20Notes.md)
 
-[Class 11]()
+[Class 11](301/301%20Class%2011%20Notes.md)
 
-[Class 12]()
+[Class 12](301/301%20Class%2012%20Notes.md)
 
-[Class 13]()
+[Class 13](301/301%20Class%2013%20Notes.md)
 
-[Class 14]()
+[Class 14](301/301%20Class%2014%20Notes.md)
 
-[Class 15]()
+[Class 15](301/301%20Class%2015%20Notes.md)
 
 ## [Check Out My GitHub!](https://github.com/rpap75) ##
