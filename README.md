@@ -6,13 +6,13 @@ Hi, my name is **Ryan Papsin**. This is where you can find my reading notes for 
 
 **102 Notes**
 
-[Class 1](/Intro%20to%20Software%20Development/102%20Class%201%20Notes.md)
+[Class 1](/Code%20102%20-%20Intro%20to%20Software%20Development/102%20Class%201%20Notes.md)
 
-[Class 2](Intro%20to%20Software%20Development/102%20Class%201%20Notes.md)  
+[Class 2](/102/102%20Class%202%20Notes.md)  
 
-[Class 3](/102%20-%20Intro%20to%20Software%20Development/102%20Class%201%20Notes.md)
+[Class 3](/102/102%20Class%203%20Notes.md)
 
-[Class 4](102%20-%20Intro%20to%20Software%20Development/102%20Class%201%20Notes.md)
+[Class 4](/102/102%20Class%204%20Notes.md)
 
 [Class 5](/102/102%20Class%205%20Notes.md)
 
