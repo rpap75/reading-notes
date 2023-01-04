@@ -9,3 +9,4 @@ The video "A Kiner, Gentler Philosophy Of Sucess" was very interesting. Understa
 Emotional Intelligence is very important and is not easy all the time. Emotional intelligence is something that I continually work on. Everybody has their triggers and it's good to know your own.
 
 Everyone has their biases. We have them without even realizing sometimes. It's good to remember that nobody is perfect and staying open-minded is important.
+
