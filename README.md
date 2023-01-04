@@ -88,9 +88,9 @@ Hi, my name is **Ryan Papsin**. This is where you can find my reading notes for 
 
 **401 Notes**
 
-[Practice In The Terminal](401/401%20Class%201%20Notes.md)
+[Practice In The Terminal](401/Practice%20In%20The%20Terminal.md)
 
-[The Growth Minset](401/401%20Class%201%20Notes.md)
+[The Growth Minset](401/The%20Growth%20Mindset.md)
 
 [Class 1](401/401%20Class%201%20Notes.md)
 
