@@ -90,7 +90,7 @@ Hi, my name is **Ryan Papsin**. This is where you can find my reading notes for 
 
 [Practice In The Terminal](401/401%20Class%201%20Notes.md)
 
-[The Growth Minset] (401/401%20Class%201%20Notes.md)
+[The Growth Minset](401/401%20Class%201%20Notes.md)
 
 [Class 1](401/401%20Class%201%20Notes.md)
 
