@@ -6,7 +6,7 @@ Hi, my name is **Ryan Papsin**. This is where you can find my reading notes for 
 
 **102 Notes**
 
-[Class 1](102/102%20Class%201%20Notes.md)
+[Class 1](102%20Class%201%20Notes.md)
 
 [Class 2](102/102%20Class%202%20Notes.md)  
 
