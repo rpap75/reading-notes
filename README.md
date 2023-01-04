@@ -1,4 +1,4 @@
-# My Reading Notes Journal For Code 102d44
+# My Reading Notes Journal For CodeFellows.
 
 Hi, my name is **Ryan Papsin**. This is where you can find my reading notes for *Code Fellows.*
 
